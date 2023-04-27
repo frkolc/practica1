@@ -1,0 +1,17 @@
+h1{
+    color: rgba(180, 38, 38, 0.576);
+}
+h2{
+    color: rgb(206, 228, 247);
+}
+{
+    margin: 0;
+    padding: 0;
+    box sizing: border-box;
+}
+h1 {
+    color: crimson;
+}
+p {
+    color: grey;
+}
